@@ -1,5 +1,5 @@
 
-package classesobjects.practice_problems;
+package classesobjects.assignment_problems;
 
 public class BookInventory {
     String title;
